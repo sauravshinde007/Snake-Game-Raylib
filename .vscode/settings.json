@@ -8,10 +8,5 @@
 		"**/*.o": true,
 		"**/*.exe": true,
 	},
-	"C_Cpp.errorSquiggles": "disabled",
-	"files.associations": {
-		"*.ejs": "html",
-		"*.m": "cpp",
-		"algorithm": "cpp"
-	}
+	"C_Cpp.errorSquiggles": "disabled"
 }
